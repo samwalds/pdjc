@@ -8,7 +8,7 @@ This is also my first attempt at building a github website, so please just ignor
 We are planning to run this journal club initially on a monthly basis, and will see how it it develops with the input from all of you.
 
 ## AIMs
-
+To get to know and connect with people around the world. discuss a paper in a pleasant atmosphere, learn new things, look at experiments with other people's eyes. 
 
 ## How is this going to work?
 Two main things to sign-up to: 
