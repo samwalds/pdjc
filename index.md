@@ -26,10 +26,19 @@ Ideally one person per breakout group will have volunteered beforehand to be a b
 When you are signing up for the individual sessions you will also be asked if you want to be the 'breakout group responsible person' (short **BOG person**).
 With that you'll gain the following resonsibilities, before the journal club starts:
 - Prepare a short powerpoint (or similar programm) presentation where you copy all the figures into individual slides
-- You'll receive an extra **secret email** before the session. This email will contain an ice breaker activity that your 
+- You'll receive an extra **secret email** before the session a few days before the session. This email will contain an ice breaker activity that will help your group get know each other a bit better. Please do read the **secret email** carefully. 
 
+During the breakout groups:
+- Help with the introduction of your breakout group, and to get the ball rolling. 
 - Share your screen with said presentation. That way your breakout group will all be able to see the same figures at the same time.
+- Keep a bit of an eye on the time. 
 
+## Are you an author? 
+If you are one of the authors on a paper that 
+
+## feedback, ideas and suggestions
+If you have any feedback or ideas for improvements on the format please submit them using this **FORM**. 
+If you have a suggestion for a paper that we could read for one of the next sessions please submit it here **PAPER submission**
 
 
 ## Would you like to help run this thing?
