@@ -23,8 +23,13 @@ Ideally one person per breakout group will have volunteered beforehand to be a b
 
 
 ## What is a breakout group responsible person? 
-When you are signing up for a session you will also be asked if you would be happy to the breakout group responsible person (BOG person). You'll then have following responsibilities to ensure that everything will run smoothly:
-- 
+When you are signing up for the individual sessions you will also be asked if you want to be the 'breakout group responsible person' (short **BOG person**).
+With that you'll gain the following resonsibilities, before the journal club starts:
+- Prepare a short powerpoint (or similar programm) presentation where you copy all the figures into individual slides
+- You'll receive an extra **secret email** before the session. This email will contain an ice breaker activity that your 
+
+- Share your screen with said presentation. That way your breakout group will all be able to see the same figures at the same time.
+
 
 
 ## Would you like to help run this thing?
